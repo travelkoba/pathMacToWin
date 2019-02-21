@@ -1,0 +1,20 @@
+.example {
+  position: absolute;
+  }
+
+.example p {
+  position: absolute;
+  top: 52px;/*画像の左上に配置*/
+  letter-spacing: 80px;
+  left: 160px;
+  margin: 0; /*余計な隙間を除く*/
+  color: black;/*文字を白に*/
+  background: white;/*背景色*/
+  font-size: 40px;
+  line-height: 1;/*行高は1に*/
+  padding: 5px 10px;/*文字周りの余白*/
+  }
+
+.example img {
+  width: 100%;
+  }
